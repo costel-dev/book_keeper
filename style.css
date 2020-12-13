@@ -68,12 +68,12 @@ a:active {
   float: right;
   cursor: pointer;
   z-index: 2;
+  color: white;
 }
 
 .name {
   margin-top: 20px;
   margin-right: 20px;
-  color: white;
 }
 
 .name img {
